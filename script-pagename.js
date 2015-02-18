@@ -1,5 +1,4 @@
 /*  Plugin - site section  */
-//some change part 2
 function cleanUp (value) {
   return value.toLowerCase().replace("-"," ").replace(".aspx","");
 }
