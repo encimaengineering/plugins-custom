@@ -1,4 +1,4 @@
-// adBlocker tracking v1.1 - begin
+// adBlocker tracking v1.0 - begin
     var s_adBlockDiv = $('<div>', {class: 'afs_ads', text: '&nbsp;'}); // create adBlocker tracking div
     $('footer').append(s_adBlockDiv); // set specific element per site
     (function() {
